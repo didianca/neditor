@@ -13,10 +13,10 @@ Neditor is a versatile online sandbox playground designed for developers seeking
 ### Usage tips
 
   - For Markdown documentation style text editor, use the Add Text button 
-  - For JavaScript sandbox code editor , use the Add Code top right corner of each individual cell
+  - For JavaScript sandbox code editor, use the Add Code top right corner of each individual cell
   - For deleting a cell there is a cross button in the top right corner of each individual cell as well
   - For previewing results of your code, there is a built-in "show()" function which allows you to log the results to the preview window
-  - If you'd like to resie your editors, use the dotted components on each cell to drag and resize as needed.
+  - If you'd like to resize your editors, use the dotted components on each cell to drag and resize as needed.
   - Messy code? Don't worry! The Format button inside the code cell should take care of that for you. Just use it as needed!
 
 ## Design Principles
